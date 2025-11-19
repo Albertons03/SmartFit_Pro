@@ -31,7 +31,7 @@ export default function Hero() {
         <div className="mb-16 relative animate-scale-in">
           <div className="w-full max-w-4xl mx-auto rounded-3xl shadow-2xl overflow-hidden glow-on-hover">
             <img
-              src="/.bolt/u1735675282_Close-up_smartwatch_display_glowing_health_data_s_611b19ed-5730-4306-9077-75895e68a122_0.png"
+              src="/images/u1735675282_Close-up_smartwatch_display_glowing_health_data_s_611b19ed-5730-4306-9077-75895e68a122_0.png"
               alt="SmartFit Pro X - Premium Smartwatch"
               className="w-full h-auto object-cover"
               onError={(e) => {

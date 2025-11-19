@@ -14,7 +14,7 @@ export default function Video() {
         <div className="relative aspect-video rounded-3xl overflow-hidden shadow-2xl group cursor-pointer glow-on-hover animate-scale-in">
           {/* GIF Background */}
           <img
-            src="/.bolt/u1735675282_Close-up_smartwatch_display_glowing_health_data_s_48729afd-026e-4ef0-85b7-e0b5a09c623c_3.gif"
+            src="/images/u1735675282_Close-up_smartwatch_display_glowing_health_data_s_48729afd-026e-4ef0-85b7-e0b5a09c623c_3.gif"
             alt="SmartFit Pro X Demo"
             className="absolute inset-0 w-full h-full object-cover"
             onError={(e) => {

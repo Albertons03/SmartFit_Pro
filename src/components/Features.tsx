@@ -47,7 +47,7 @@ export default function Features() {
           <div className="relative animate-scale-in">
             <div className="aspect-square rounded-3xl shadow-2xl overflow-hidden glow-on-hover">
               <img
-                src="/.bolt/u1735675282_Smartwatch_on_wrist_during_running_outdoor_fitnes_877e1113-c181-42a8-8edc-8bae8f24b773_2.png"
+                src="/images/u1735675282_Smartwatch_on_wrist_during_running_outdoor_fitnes_877e1113-c181-42a8-8edc-8bae8f24b773_2.png"
                 alt="SmartFit Pro X - Outdoor Fitness"
                 className="w-full h-full object-cover"
                 onError={(e) => {
